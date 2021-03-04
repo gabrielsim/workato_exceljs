@@ -1,0 +1,16 @@
+{
+  "name": "exceljs_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "minify": "^6.0.1"
+  }
+}
